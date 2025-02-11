@@ -7,9 +7,11 @@ Data Acquisition: Fetches COVID-19 data from a live GitHub source.
 Data Wrangling: Cleans, subsets, and transforms data for analysis.
 State-Level Insights: Identifies key statistics such as highest cumulative cases, new cases, and deaths.
 Time-Series Analysis: Examines trends over time, including weekday patterns.
+
 📂 Files Included
 covid_analysis.R – Main R script for data processing and insights.
 README.md – Overview and usage instructions.
+
 🚀 How to Use
 Clone the repository:
 bash
@@ -18,6 +20,7 @@ Edit
 git clone https://github.com/yourusername/CovidTrackerR.git
 Run the R script in RStudio or any R environment.
 Explore COVID-19 trends and patterns from 2021.
+
 📈 Insights
 This project provides a deep dive into pandemic trends, helping to understand the spread and impact of COVID-19 across different states.
 
